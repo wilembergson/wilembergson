@@ -2,7 +2,7 @@
 Entrei para o curso de Ciência da computação em Dezembro de 2018 na Universidade federal da Paraíba, onde tive meu primeiro contato com programação em muito tempo utilizando as linguagens C e Java em projetos acadêmicos.
 Em Fevereiro de 2021, me dediquei a estudar tecnologias Javascript, mais especificamente React, onde desenvolvi projetos próprios utilizando meu conhecimento adquirido anteriormente em Java no backend e React no frontend.Em Janeiro de 2022 iniciei um bootcamp na Driven Education, onde fiquei até Outubro do mesmo ano desenvolvendo aplicações que precisaveam ser entregues todas as Segundas-feiras cumprindo os requisitos especificados utilizando as tecnologias React, Nodejs, typescript, MongoDB, Postgres, Docker, entre outras.
 
-###  💻 Conferira meu site: [wilembergson.com.br](https://wilembergson.com.br/)
+###  💻 Confira meu site: [wilembergson.com.br](https://wilembergson.com.br/)
 
 <!--
 **wilembergson/wilembergson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
